@@ -1,5 +1,6 @@
 ### Hi there 👋
 I am Hazem, a computer engineer:
+*  Software Engineer at [Ariana Suisse Sa](http://arianach.com/)
 *  2+ of experience in software development with a focus on React, Redux, JavaScript, Cypress, Docker, Figma, Design System.
 *  MSc student in Computer Engineering focusing on Machine Learning (ML) | Computational Linguistics (CL) with a strong background in Python | Pandas | R | Scikit-learn | Numpy. 
 

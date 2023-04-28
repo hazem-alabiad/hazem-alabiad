@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Hazem, a computer engineer:
-- Software Engineer - II - FE - React @ [Getir]([url](https://getir.com/))
+- Software Engineer - II - FE - React @ [Getir](https:getir.com)
 - 3+ of experience in software development with a focus on React, JavaScript, TypeScript, Cypress, Jest, react-testing-library, Docker, Design System, Apollo GraphQL, and Redux.
 
 - 🔭 I’m currently working on project called Honest  

@@ -1,9 +1,10 @@
 ### Hi there 👋
 I am Hazem, a computer engineer:
-- Software Engineer - II - FE - React @ [Getir](https:getir.com)
-- 3+ of experience in software development with a focus on React, JavaScript, TypeScript, Cypress, Jest, react-testing-library, Docker, Design System, Apollo GraphQL, and Redux.
+- Software Engineer - II - FE - React @ **[Getir](https:getir.com)**
+- Nearly **4** years of experience in software development with a focus on React, JavaScript, TypeScript, Cypress, Jest, react-testing-library, Docker, Design System, Apollo GraphQL, Redux, Storybook, and Chromatic.
 
-- 🔭 I’m currently working on project called Honest  
+  
+- 🔭 I’m currently working on a project called Honest  
 - 🌱 I’m currently learning NodeJS  
 - ❓ Ask me about anything related to React, TS, JS, Apollo GraphQL and related technologies  
 - 📫 How to reach me [portfolio](https://flowcv.me/hazemalabiad)

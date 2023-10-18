@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am Hazem, a computer engineer:
+I am Hazem, a computer engineer based in Germany, Stuttgart 🇩🇪:
+- I am pursuing my master's in computational linguistics @ [Tuebingen University]([url](https://uni-tuebingen.de/en/))
 - Software Engineer - II - FE - React @ **[Getir](https:getir.com)**
 - Nearly **4** years of experience in software development with a focus on React, JavaScript, TypeScript, Cypress, Jest, react-testing-library, Docker, Design System, Apollo GraphQL, Redux, Storybook, and Chromatic.
 

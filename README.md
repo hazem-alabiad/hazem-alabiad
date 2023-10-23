@@ -8,7 +8,7 @@ I am Hazem, a computer engineer based in Germany, Stuttgart 🇩🇪:
 - 🔭 I’m currently working on a project called Honest  
 - 🌱 I’m currently learning NodeJS  
 - ❓ Ask me about anything related to React, TS, JS, Apollo GraphQL and related technologies  
-- 📫 How to reach me [portfolio](https://flowcv.me/hazemalabiad)
+- 📫 How to reach me [portfolio](https://flowcv.me/hazem-alabiad)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">

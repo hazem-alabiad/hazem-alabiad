@@ -1,11 +1,11 @@
 ### Hi there 👋
-I am Hazem, a computer engineer based in Germany, Stuttgart 🇩🇪:
+I am Hazem, a computer engineer based in Germany, Tübingen 🇩🇪:
 - I am pursuing my master's in computational linguistics @ [Tuebingen University]([url](https://uni-tuebingen.de/en/))
-- Software Engineer - II - FE - React @ **[Getir](https:getir.com)**
+- Software Engineer - II - FE - React | ex-**[Getir](https:getir.com)** | I am looking for new roles 📣
 - Nearly **4** years of experience in software development with a focus on React, JavaScript, TypeScript, Cypress, Jest, react-testing-library, Docker, Design System, Apollo GraphQL, Redux, Storybook, and Chromatic.
 
   
-- 🔭 I’m currently working on a project called Honest  
+- 🔭 I’m currently working on a project called Wise  
 - 🌱 I’m currently learning NodeJS  
 - ❓ Ask me about anything related to React, TS, JS, Apollo GraphQL and related technologies  
 - 📫 How to reach me [portfolio](https://flowcv.me/hazem-alabiad)

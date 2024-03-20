@@ -1,12 +1,12 @@
 ### Hi there 👋
 I am Hazem, a computer engineer based in Germany, Tübingen 🇩🇪:
-- I am pursuing my master's in computational linguistics @ [Tuebingen University]([url](https://uni-tuebingen.de/en/))
-- Software Engineer - II - FE - React | ex-**[Getir](https:getir.com)** | I am looking for new roles 📣
-- Nearly **4** years of experience in software development with a focus on React, JavaScript, TypeScript, Cypress, Jest, react-testing-library, Docker, Design System, Apollo GraphQL, Redux, Storybook, and Chromatic.
+
+Highly skilled Frontend developer with 5+ years of experience building user-friendly interfaces using React, TypeScript, JavaScript, and comprehensive testing practices. Proven leadership abilities as a tech lead, along with a deep understanding of frontend technologies, including Design Systems and GraphQL. Passionate about innovation, currently pursuing an M.A. in Computational Linguistics with a focus on Generative AI and LLMs."
+
 
   
-- 🔭 I’m currently working on a project called Wise  
-- 🌱 I’m currently learning NodeJS  
+- 🔭 I’m currently working on a project called `Wise`  
+- 🌱 I’m currently learning NodeJS & Django 
 - ❓ Ask me about anything related to React, TS, JS, Apollo GraphQL and related technologies  
 - 📫 How to reach me [portfolio](https://flowcv.me/hazem-alabiad)
 
